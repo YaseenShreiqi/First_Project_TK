@@ -2,4 +2,5 @@
 # This is the first attempt to create a simple project have a "rigster a new account and login"
 # With its connection to a database
 # By using the Tkenter library
+# Run The Application "First_Project_TK.exe"
 # If there are any comments, please contact me on Telegram: https://t.me/yaso0_o
